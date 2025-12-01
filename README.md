@@ -1,5 +1,4 @@
-## 💻 Pi-Squared: Combined System Readme
-
+## 💻 Pi-Squared
 This project, for Advanced Computer Science Studies in Sweden HT2024, comprises a **broker/client** (Raspberry Pi code) and a **Flask-based front end** for communication.
 
 -----
