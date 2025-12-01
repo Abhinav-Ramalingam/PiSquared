@@ -1,0 +1,8 @@
+[broker]
+# the ip or the hostname of the broker
+ip = 
+# port to connect to on the broker (default is 1883)
+port = 1883
+# authentication to the broker (previously set username)
+user = 
+password = 

@@ -1,0 +1,979 @@
+1728238233: mosquitto version 2.0.19 starting
+1728238233: Config loaded from /mosquitto/config/mosquitto.conf.
+1728238233: Warning: File /mosquitto/config/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwd`.
+1728238233: Opening ipv4 listen socket on port 9001.
+1728238233: Opening ipv6 listen socket on port 9001.
+1728238233: Opening ipv4 listen socket on port 1883.
+1728238233: Opening ipv6 listen socket on port 1883.
+1728238233: mosquitto version 2.0.19 running
+1728238350: mosquitto version 2.0.19 terminating
+1728238350: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728238350: mosquitto version 2.0.19 starting
+1728238350: Config loaded from /mosquitto/config/mosquitto.conf.
+1728238350: Opening ipv4 listen socket on port 9001.
+1728238350: Opening ipv6 listen socket on port 9001.
+1728238350: Opening ipv4 listen socket on port 1883.
+1728238350: Opening ipv6 listen socket on port 1883.
+1728238350: mosquitto version 2.0.19 running
+1728239028: New connection from 192.168.65.1:54889 on port 1883.
+1728239028: New client connected from 192.168.65.1:54889 as auto-1AF090B4-A83E-2EAB-94B6-6E79249487BC (p2, c1, k60, u'abhinavram2002').
+1728239028: Client auto-1AF090B4-A83E-2EAB-94B6-6E79249487BC closed its connection.
+1728239181: mosquitto version 2.0.19 terminating
+1728239181: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728239210: mosquitto version 2.0.19 starting
+1728239210: Config loaded from /mosquitto/config/mosquitto.conf.
+1728239210: Opening ipv4 listen socket on port 9001.
+1728239210: Opening ipv6 listen socket on port 9001.
+1728239210: Opening ipv4 listen socket on port 1883.
+1728239210: Opening ipv6 listen socket on port 1883.
+1728239210: mosquitto version 2.0.19 running
+1728239216: mosquitto version 2.0.19 terminating
+1728239216: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728239220: mosquitto version 2.0.19 starting
+1728239220: Config loaded from /mosquitto/config/mosquitto.conf.
+1728239220: Opening ipv4 listen socket on port 9001.
+1728239220: Opening ipv6 listen socket on port 9001.
+1728239220: Opening ipv4 listen socket on port 1883.
+1728239220: Opening ipv6 listen socket on port 1883.
+1728239220: mosquitto version 2.0.19 running
+1728239277: New connection from 192.168.65.1:22527 on port 1883.
+1728239277: New client connected from 192.168.65.1:22527 as auto-F17B4E96-E17E-B36A-C087-25AD56B89A7C (p2, c1, k60, u'abhinavram2002').
+1728239278: Client auto-F17B4E96-E17E-B36A-C087-25AD56B89A7C closed its connection.
+1728239298: mosquitto version 2.0.19 terminating
+1728239298: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728377590: mosquitto version 2.0.19 starting
+1728377590: Config loaded from /mosquitto/config/mosquitto.conf.
+1728377590: Opening ipv4 listen socket on port 9001.
+1728377590: Opening ipv6 listen socket on port 9001.
+1728377590: Opening ipv4 listen socket on port 1883.
+1728377590: Opening ipv6 listen socket on port 1883.
+1728377590: mosquitto version 2.0.19 running
+1728379334: New connection from 192.168.65.1:42558 on port 1883.
+1728379334: New client connected from 192.168.65.1:42558 as auto-A4E50EFF-69C0-22C1-BD1F-6A49DDB62794 (p2, c1, k60, u'abhinavram2002').
+1728379335: Client auto-A4E50EFF-69C0-22C1-BD1F-6A49DDB62794 closed its connection.
+1728379391: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728379512: New connection from 192.168.65.1:60268 on port 1883.
+1728379512: New client connected from 192.168.65.1:60268 as auto-925F9BCD-8E3E-C954-21BF-C526713A654E (p2, c1, k60, u'abhinavram2002').
+1728379513: Client auto-925F9BCD-8E3E-C954-21BF-C526713A654E closed its connection.
+1728381192: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728382993: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728384871: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728387160: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728389578: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728391379: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728393180: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728394981: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728396782: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728397206: mosquitto version 2.0.19 terminating
+1728397206: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728540218: mosquitto version 2.0.19 starting
+1728540218: Config loaded from /mosquitto/config/mosquitto.conf.
+1728540218: Opening ipv4 listen socket on port 9001.
+1728540218: Opening ipv6 listen socket on port 9001.
+1728540218: Opening ipv4 listen socket on port 1883.
+1728540218: Opening ipv6 listen socket on port 1883.
+1728540218: mosquitto version 2.0.19 running
+1728540218: New connection from 172.19.0.4:45003 on port 1883.
+1728540218: Client auto-BEF0A77B-4EA8-1833-9AB3-E1EB62777C9F disconnected, not authorised.
+1728540219: New connection from 172.19.0.4:48285 on port 1883.
+1728540219: Client auto-2A11800B-3E26-0E77-F758-6743DE9DD816 disconnected, not authorised.
+1728540221: New connection from 172.19.0.4:47185 on port 1883.
+1728540221: Client auto-E9F3DDA5-A505-DD8D-CE08-C3203C781FC6 disconnected, not authorised.
+1728540225: New connection from 172.19.0.4:54505 on port 1883.
+1728540225: Client auto-253259CE-F3AE-4A9C-5750-7C0D5D334ACA disconnected, not authorised.
+1728540233: New connection from 172.19.0.4:48515 on port 1883.
+1728540233: Client auto-2BF91BC5-CAB8-89D9-64F7-B736C62E4C45 disconnected, not authorised.
+1728540249: New connection from 172.19.0.4:53115 on port 1883.
+1728540249: Client auto-60E28745-5AC4-5588-EB33-8C9B7751CF2E disconnected, not authorised.
+1728540281: New connection from 172.19.0.4:47663 on port 1883.
+1728540281: Client auto-808C6821-4275-12A3-5728-D8C272955D7D disconnected, not authorised.
+1728540345: New connection from 172.19.0.4:40215 on port 1883.
+1728540345: Client auto-7E29DA1C-4475-8B14-CD93-369FFF5C9CA6 disconnected, not authorised.
+1728540465: New connection from 172.19.0.4:60911 on port 1883.
+1728540465: Client auto-87529DA0-8623-D0DA-A443-B45084DEC021 disconnected, not authorised.
+1728540585: New connection from 172.19.0.4:60249 on port 1883.
+1728540585: Client auto-F9A7E328-99F8-1F19-6AA5-F01F60CFA3C5 disconnected, not authorised.
+1728540705: New connection from 172.19.0.4:39235 on port 1883.
+1728540705: Client auto-35FBED5F-FEFB-9BE5-1CF3-59A4AA2E702C disconnected, not authorised.
+1728540825: New connection from 172.19.0.4:53977 on port 1883.
+1728540825: Client auto-68E13C10-218C-F085-C814-43D2A3EF52C2 disconnected, not authorised.
+1728540945: New connection from 172.19.0.4:56695 on port 1883.
+1728540945: Client auto-503D27E7-58B1-1BE6-2078-5E0AABCF6236 disconnected, not authorised.
+1728541065: New connection from 172.19.0.4:53445 on port 1883.
+1728541065: Client auto-F3ACA0D1-EFC2-CD43-DE56-7D85B25D71ED disconnected, not authorised.
+1728541185: New connection from 172.19.0.4:60327 on port 1883.
+1728541185: Client auto-75FDF0BE-8C0A-FC70-D852-83AD78C09383 disconnected, not authorised.
+1728541305: New connection from 172.19.0.4:57437 on port 1883.
+1728541305: Client auto-7643E21E-70D8-3879-FE58-E3C189A3BE2C disconnected, not authorised.
+1728541425: New connection from 172.19.0.4:49379 on port 1883.
+1728541425: Client auto-305CE837-07E1-1E52-5AFF-CE0328FD7C5D disconnected, not authorised.
+1728541545: New connection from 172.19.0.4:35455 on port 1883.
+1728541545: Client auto-FBD1E460-5949-9C95-F3CC-AE1857370BD5 disconnected, not authorised.
+1728541665: New connection from 172.19.0.4:55225 on port 1883.
+1728541665: Client auto-E4B93E65-038D-D1EC-AD7B-69971D2F5C02 disconnected, not authorised.
+1728541747: New connection from 192.168.65.1:30280 on port 1883.
+1728541747: Client <unknown> disconnected due to protocol error.
+1728541748: New connection from 192.168.65.1:23127 on port 1883.
+1728541748: Client <unknown> disconnected due to protocol error.
+1728541754: New connection from 192.168.65.1:45865 on port 1883.
+1728541754: Client <unknown> disconnected due to protocol error.
+1728541755: New connection from 192.168.65.1:40534 on port 1883.
+1728541755: Client <unknown> disconnected due to protocol error.
+1728541785: New connection from 172.19.0.4:51115 on port 1883.
+1728541785: Client auto-FB26DEFC-703E-3C76-3AE1-5034548E726E disconnected, not authorised.
+1728541905: New connection from 172.19.0.4:48283 on port 1883.
+1728541905: Client auto-F1CEF240-39E9-546D-492A-74ADD5C434C1 disconnected, not authorised.
+1728542019: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728542025: New connection from 172.19.0.4:52583 on port 1883.
+1728542025: Client auto-8C421AAF-A222-7799-8A5A-B850CB12F82C disconnected, not authorised.
+1728542145: New connection from 172.19.0.4:42969 on port 1883.
+1728542145: Client auto-6DBDAF2C-4F1F-0E1B-6B16-2FF925640392 disconnected, not authorised.
+1728542265: New connection from 172.19.0.4:44147 on port 1883.
+1728542265: Client auto-96309D98-98C4-E321-02A2-1E4B1F405396 disconnected, not authorised.
+1728542385: New connection from 172.19.0.4:47545 on port 1883.
+1728542385: Client auto-1502DE5B-7597-4170-2561-E7EDE70A18A5 disconnected, not authorised.
+1728542505: New connection from 172.19.0.4:48107 on port 1883.
+1728542505: Client auto-4D4F017E-2048-0EA3-0DC5-EF9A6835E1AD disconnected, not authorised.
+1728542625: New connection from 172.19.0.4:50289 on port 1883.
+1728542625: Client auto-3B957280-CFCC-AD60-A0AF-389F05A91FF5 disconnected, not authorised.
+1728542745: New connection from 172.19.0.4:46897 on port 1883.
+1728542745: Client auto-79AF24F9-6675-1078-B22E-AE160A4FD701 disconnected, not authorised.
+1728542865: New connection from 172.19.0.4:38087 on port 1883.
+1728542865: Client auto-0EACADC8-7172-4D3A-69E1-C5F09AE67292 disconnected, not authorised.
+1728542985: New connection from 172.19.0.4:42133 on port 1883.
+1728542985: Client auto-AF383D2E-EBF7-D34A-5344-04F68CF34D77 disconnected, not authorised.
+1728543105: New connection from 172.19.0.4:40459 on port 1883.
+1728543105: Client auto-DF7934D3-9BAD-AA56-8874-25DC284B1D57 disconnected, not authorised.
+1728543225: New connection from 172.19.0.4:37307 on port 1883.
+1728543225: Client auto-937085C6-30ED-B945-B8FB-EF02F464C492 disconnected, not authorised.
+1728543345: New connection from 172.19.0.4:55371 on port 1883.
+1728543345: Client auto-14939FFC-E4A9-D626-D292-191524ACB968 disconnected, not authorised.
+1728543465: New connection from 172.19.0.4:56143 on port 1883.
+1728543465: Client auto-9DD61DAC-17E5-2837-079A-C23A46746711 disconnected, not authorised.
+1728543585: New connection from 172.19.0.4:60659 on port 1883.
+1728543585: Client auto-AF2018E7-2111-5DB4-7FAB-47C58504D8DF disconnected, not authorised.
+1728543705: New connection from 172.19.0.4:48959 on port 1883.
+1728543705: Client auto-A04C44AF-6124-BD6C-DA07-CF0E69DE23AD disconnected, not authorised.
+1728543820: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728543825: New connection from 172.19.0.4:35737 on port 1883.
+1728543825: Client auto-4F59B5B8-3AFA-EF2E-90C6-54E6D30E4890 disconnected, not authorised.
+1728543945: New connection from 172.19.0.4:43067 on port 1883.
+1728543945: Client auto-E5A4C911-30F1-2F19-3F3C-9A49D73AB0FD disconnected, not authorised.
+1728544065: New connection from 172.19.0.4:53501 on port 1883.
+1728544065: Client auto-9F7CE9E4-C769-980D-E55C-0BB470156836 disconnected, not authorised.
+1728544185: New connection from 172.19.0.4:41705 on port 1883.
+1728544185: Client auto-F493D2E0-4BDC-C5DA-5D35-4AF20838A218 disconnected, not authorised.
+1728544305: New connection from 172.19.0.4:42443 on port 1883.
+1728544305: Client auto-BE7DD3EF-0AD9-D166-A688-2894FF40349C disconnected, not authorised.
+1728544425: New connection from 172.19.0.4:39107 on port 1883.
+1728544425: Client auto-4F01A9BA-6862-B41D-2045-C3993410D797 disconnected, not authorised.
+1728544545: New connection from 172.19.0.4:39733 on port 1883.
+1728544545: Client auto-CB6CFAB5-D23B-D795-DCB0-B5BC41BBAF45 disconnected, not authorised.
+1728544665: New connection from 172.19.0.4:44647 on port 1883.
+1728544665: Client auto-2F0949F7-40A2-A1B6-803D-4B5A17D0AC6D disconnected, not authorised.
+1728544785: New connection from 172.19.0.4:55711 on port 1883.
+1728544785: Client auto-96ABB551-F480-020F-F408-44C1149536DD disconnected, not authorised.
+1728544905: New connection from 172.19.0.4:37709 on port 1883.
+1728544905: Client auto-848FE15C-DE4A-CF8D-037A-931F7389C0AA disconnected, not authorised.
+1728545025: New connection from 172.19.0.4:59731 on port 1883.
+1728545025: Client auto-C04F6851-2A4B-F9C1-24BC-5669AA668858 disconnected, not authorised.
+1728545145: New connection from 172.19.0.4:51687 on port 1883.
+1728545145: Client auto-C6A9DE38-453A-0B00-157C-1DC42CFFEC71 disconnected, not authorised.
+1728545265: New connection from 172.19.0.4:40005 on port 1883.
+1728545265: Client auto-62DD1F5A-C1CA-D0D8-B963-8AD04E0A98F7 disconnected, not authorised.
+1728545385: New connection from 172.19.0.4:48947 on port 1883.
+1728545385: Client auto-5B938F4B-190A-9E10-CB67-6FEBF7F4088D disconnected, not authorised.
+1728545505: New connection from 172.19.0.4:39215 on port 1883.
+1728545505: Client auto-3C0800F6-39B3-0F26-EED5-87860CF2184C disconnected, not authorised.
+1728545621: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728545625: New connection from 172.19.0.4:51631 on port 1883.
+1728545625: Client auto-2C80F054-CEA0-8D28-B38D-FCC85751A6C8 disconnected, not authorised.
+1728545745: New connection from 172.19.0.4:37433 on port 1883.
+1728545745: Client auto-55E7EDA6-34A5-00B9-1AD9-1E9E1D4737F6 disconnected, not authorised.
+1728545865: New connection from 172.19.0.4:34243 on port 1883.
+1728545865: Client auto-5C0C279F-D818-6A2A-D045-EA958D391800 disconnected, not authorised.
+1728546013: New connection from 172.19.0.4:42729 on port 1883.
+1728546013: Client auto-8C30AC71-4902-899C-C4AE-0876F3C5D5F4 disconnected, not authorised.
+1728546133: New connection from 172.19.0.4:48383 on port 1883.
+1728546133: Client auto-3C586C42-CD17-C49B-38D1-78F36DA4D3DC disconnected, not authorised.
+1728546253: New connection from 172.19.0.4:40193 on port 1883.
+1728546253: Client auto-29DEA89C-5136-9C2F-8DB3-ADACCF20D969 disconnected, not authorised.
+1728546373: New connection from 172.19.0.4:55497 on port 1883.
+1728546373: Client auto-A2F55DB6-1E8B-DF29-01FD-1CF8F870B619 disconnected, not authorised.
+1728546493: New connection from 172.19.0.4:43715 on port 1883.
+1728546493: Client auto-9D0DF3DC-0D1A-481B-FD12-E8795D249D39 disconnected, not authorised.
+1728546614: New connection from 172.19.0.4:44285 on port 1883.
+1728546614: Client auto-8C8E0BDA-6D37-DC2F-2491-450772795FFB disconnected, not authorised.
+1728546734: New connection from 172.19.0.4:52359 on port 1883.
+1728546734: Client auto-ABB1B8F6-AF6E-E019-329A-9B0F6C3DB41D disconnected, not authorised.
+1728546815: New connection from 192.168.65.1:63481 on port 1883.
+1728546815: New client connected from 192.168.65.1:63481 as auto-0168E1B5-0A11-A5D0-8A9A-F6AFCBB1DC54 (p2, c1, k60, u'abhinavram2002').
+1728546815: Client auto-0168E1B5-0A11-A5D0-8A9A-F6AFCBB1DC54 closed its connection.
+1728546854: New connection from 172.19.0.4:33175 on port 1883.
+1728546854: Client auto-51D057AC-C0E2-96AF-3CE4-419F3F171581 disconnected, not authorised.
+1728546974: New connection from 172.19.0.4:48077 on port 1883.
+1728546974: Client auto-FF1259DC-72AC-DB22-82B6-4CABEC5767F4 disconnected, not authorised.
+1728547094: New connection from 172.19.0.4:52029 on port 1883.
+1728547094: Client auto-756F7EFA-D83C-B382-2E39-1EFEC94C9DAC disconnected, not authorised.
+1728547214: New connection from 172.19.0.4:59141 on port 1883.
+1728547214: Client auto-0BBAAB94-6D56-5FD4-3407-1E129E95FF68 disconnected, not authorised.
+1728547334: New connection from 172.19.0.4:49387 on port 1883.
+1728547334: Client auto-CE47080B-6C5F-B4D7-39A7-B7B682EBF5D2 disconnected, not authorised.
+1728547422: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728547454: New connection from 172.19.0.4:50795 on port 1883.
+1728547454: Client auto-3FE5E6F2-8ACE-03CE-C8F6-0CC4C0C23D9A disconnected, not authorised.
+1728547574: New connection from 172.19.0.4:41311 on port 1883.
+1728547574: Client auto-97E54A24-4060-4C74-84B7-B515AAFE7B0A disconnected, not authorised.
+1728547694: New connection from 172.19.0.4:39799 on port 1883.
+1728547694: Client auto-FF0895AE-2C26-FE18-600B-5659808D4C9F disconnected, not authorised.
+1728547814: New connection from 172.19.0.4:35981 on port 1883.
+1728547814: Client auto-716BD366-77F3-5425-F6C6-61CA52DA88FA disconnected, not authorised.
+1728547934: New connection from 172.19.0.4:53073 on port 1883.
+1728547934: Client auto-C35595A7-79E2-6971-38D6-1A2EB5749571 disconnected, not authorised.
+1728548054: New connection from 172.19.0.4:50953 on port 1883.
+1728548054: Client auto-E2ED7A5F-0C8D-3A3F-5045-28C11637FF69 disconnected, not authorised.
+1728548174: New connection from 172.19.0.4:47947 on port 1883.
+1728548174: Client auto-6DD3CC76-E2B4-B5FA-2008-93A0B13C9509 disconnected, not authorised.
+1728548294: New connection from 172.19.0.4:55189 on port 1883.
+1728548294: Client auto-12BA7AE6-E0E2-12C8-9A79-75EA90BFF256 disconnected, not authorised.
+1728548414: New connection from 172.19.0.4:44721 on port 1883.
+1728548414: Client auto-CAA93760-1BED-E5C9-3855-68E9B22363C8 disconnected, not authorised.
+1728548509: mosquitto version 2.0.19 terminating
+1728548509: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728548509: mosquitto version 2.0.19 starting
+1728548509: Config loaded from /mosquitto/config/mosquitto.conf.
+1728548509: Opening ipv4 listen socket on port 9001.
+1728548509: Opening ipv6 listen socket on port 9001.
+1728548509: Opening ipv4 listen socket on port 1883.
+1728548509: Opening ipv6 listen socket on port 1883.
+1728548509: mosquitto version 2.0.19 running
+1728548519: New connection from 172.19.0.4:45831 on port 1883.
+1728548519: Client auto-0D8C16BF-F218-BF6A-76CB-6FC262033D01 disconnected, not authorised.
+1728548520: New connection from 172.19.0.4:45023 on port 1883.
+1728548520: Client auto-9F02769C-1DBA-E701-A4C7-5CCED6604684 disconnected, not authorised.
+1728548522: New connection from 172.19.0.4:40073 on port 1883.
+1728548522: Client auto-2C715EDF-FD1E-9503-462C-08ECB1795E08 disconnected, not authorised.
+1728548526: New connection from 172.19.0.4:46567 on port 1883.
+1728548526: Client auto-1B2F4091-8742-FC32-52C1-FEB95E7C7FE6 disconnected, not authorised.
+1728548534: New connection from 172.19.0.4:39985 on port 1883.
+1728548534: Client auto-61FAF409-03D3-F66F-3456-5B3A990F32AE disconnected, not authorised.
+1728548550: New connection from 172.19.0.4:34477 on port 1883.
+1728548550: Client auto-F0F1ADAA-322C-7A63-5CAE-AEC5B5F3BA83 disconnected, not authorised.
+1728548582: New connection from 172.19.0.4:50427 on port 1883.
+1728548582: Client auto-36EB462D-4100-027A-41B5-5DAF831D32E5 disconnected, not authorised.
+1728548646: New connection from 172.19.0.4:49617 on port 1883.
+1728548646: Client auto-A669A978-3E95-777E-362B-D7030F5561E6 disconnected, not authorised.
+1728548766: New connection from 172.19.0.4:49175 on port 1883.
+1728548766: Client auto-F6AA5415-A666-8606-843E-F4C93FCA8856 disconnected, not authorised.
+1728548886: New connection from 172.19.0.4:43783 on port 1883.
+1728548886: Client auto-E5166EF2-727F-312A-3C15-82BF16331D9E disconnected, not authorised.
+1728549007: New connection from 172.19.0.4:57621 on port 1883.
+1728549007: Client auto-2C398114-0A70-D3C0-46E3-0013C5290E39 disconnected, not authorised.
+1728549127: New connection from 172.19.0.4:40925 on port 1883.
+1728549127: Client auto-E5E70B4A-E285-D5D9-4322-A40A55B4ABF3 disconnected, not authorised.
+1728549247: New connection from 172.19.0.4:50123 on port 1883.
+1728549247: Client auto-BFB55D34-AD55-AFB1-70F4-9B07D30A8D48 disconnected, not authorised.
+1728549367: New connection from 172.19.0.4:51163 on port 1883.
+1728549367: Client auto-63ADB2DD-CAF1-04C9-7127-4A9AD5DB2A5D disconnected, not authorised.
+1728549487: New connection from 172.19.0.4:57901 on port 1883.
+1728549487: Client auto-FB1E075E-8007-14D5-2C84-1B1272467F3C disconnected, not authorised.
+1728549607: New connection from 172.19.0.4:48223 on port 1883.
+1728549607: Client auto-23ED453C-2035-0FDD-9A4E-2D10C6919C1A disconnected, not authorised.
+1728549727: New connection from 172.19.0.4:36091 on port 1883.
+1728549727: Client auto-56286D2D-1F0B-1090-2C34-DE3DF53A285A disconnected, not authorised.
+1728549847: New connection from 172.19.0.4:35183 on port 1883.
+1728549847: Client auto-F6BFAA21-34CC-C37E-6D39-38D0BEBB9706 disconnected, not authorised.
+1728549967: New connection from 172.19.0.4:38303 on port 1883.
+1728549967: Client auto-A3FB3186-399D-467E-FED9-BCEAEEE9E25B disconnected, not authorised.
+1728550087: New connection from 172.19.0.4:60013 on port 1883.
+1728550087: Client auto-418C6ED7-C503-B172-F0B3-1F2D33D0BE53 disconnected, not authorised.
+1728550207: New connection from 172.19.0.4:50431 on port 1883.
+1728550207: Client auto-79F95632-B234-1FF0-0631-1C8CF589C8A4 disconnected, not authorised.
+1728550310: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728550327: New connection from 172.19.0.4:56517 on port 1883.
+1728550327: Client auto-14932DC9-9190-3708-9DFC-D6C540AF81ED disconnected, not authorised.
+1728550447: New connection from 172.19.0.4:34535 on port 1883.
+1728550447: Client auto-ADF6BB29-A888-F239-C008-601E717035F3 disconnected, not authorised.
+1728550567: New connection from 172.19.0.4:45993 on port 1883.
+1728550567: Client auto-8667357C-9D25-803E-DB3F-153E421A3982 disconnected, not authorised.
+1728550687: New connection from 172.19.0.4:33651 on port 1883.
+1728550687: Client auto-041AE909-DDF7-5929-2045-5DEE2368CA37 disconnected, not authorised.
+1728550807: New connection from 172.19.0.4:49905 on port 1883.
+1728550807: Client auto-D796ED7E-267F-AB3F-5F71-8DB5A124CA23 disconnected, not authorised.
+1728550927: New connection from 172.19.0.4:53791 on port 1883.
+1728550927: Client auto-AE980D66-E598-98A4-2FCD-DDD0F130A88E disconnected, not authorised.
+1728551047: New connection from 172.19.0.4:37935 on port 1883.
+1728551047: Client auto-2C2B22E0-B68F-C5E7-87D7-8F38BC8F8703 disconnected, not authorised.
+1728551167: New connection from 172.19.0.4:43373 on port 1883.
+1728551167: Client auto-082805CC-8E93-39F8-D000-A24859B6AECE disconnected, not authorised.
+1728551287: New connection from 172.19.0.4:60945 on port 1883.
+1728551287: Client auto-5E95CC00-E1FF-95DA-5588-F57A8BC01A2D disconnected, not authorised.
+1728551407: New connection from 172.19.0.4:50933 on port 1883.
+1728551407: Client auto-8C7162E9-3DB7-16ED-C0F2-FAE94578DA26 disconnected, not authorised.
+1728551527: New connection from 172.19.0.4:56371 on port 1883.
+1728551527: Client auto-6E3486B5-508D-76DA-CB0E-3EC7CE3EF107 disconnected, not authorised.
+1728551647: New connection from 172.19.0.4:32873 on port 1883.
+1728551647: Client auto-65231668-0B51-8D22-8DB8-00C892314C73 disconnected, not authorised.
+1728551767: New connection from 172.19.0.4:38997 on port 1883.
+1728551767: Client auto-C85BFF64-FC89-3C5E-6898-4BD8069BEA85 disconnected, not authorised.
+1728551887: New connection from 172.19.0.4:34723 on port 1883.
+1728551887: Client auto-AFC25DA4-F183-6A78-7BAF-C6851A8DB9BB disconnected, not authorised.
+1728552007: New connection from 172.19.0.4:49545 on port 1883.
+1728552007: Client auto-2828D540-188A-CA3E-5B78-8D3983518538 disconnected, not authorised.
+1728552111: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728552127: New connection from 172.19.0.4:50273 on port 1883.
+1728552127: Client auto-BD1BDF59-7A67-E595-753B-F52B063B7F87 disconnected, not authorised.
+1728552247: New connection from 172.19.0.4:44553 on port 1883.
+1728552247: Client auto-2202F019-4E3E-ACBA-EC5E-08E458CC5EC5 disconnected, not authorised.
+1728552367: New connection from 172.19.0.4:48517 on port 1883.
+1728552367: Client auto-3A18A4FF-3E65-E815-92CC-40F727C77BCA disconnected, not authorised.
+1728552487: New connection from 172.19.0.4:43673 on port 1883.
+1728552487: Client auto-7EFF69D8-C536-5CFC-A6C2-DA6775DC9AFE disconnected, not authorised.
+1728552607: New connection from 172.19.0.4:60575 on port 1883.
+1728552607: Client auto-0DE4E252-3E83-5108-FEF3-ED5BDC8A4A09 disconnected, not authorised.
+1728552727: New connection from 172.19.0.4:55875 on port 1883.
+1728552727: Client auto-F1D0BCF4-8315-62FA-4535-1177EE5CE0CA disconnected, not authorised.
+1728552847: New connection from 172.19.0.4:32957 on port 1883.
+1728552847: Client auto-660E7F8C-18CF-19B1-B8BE-7E6EE4EAD6EF disconnected, not authorised.
+1728552967: New connection from 172.19.0.4:55583 on port 1883.
+1728552967: Client auto-C08F6EAF-FD3F-87FF-7FEE-98FFB431578D disconnected, not authorised.
+1728553087: New connection from 172.19.0.4:39231 on port 1883.
+1728553087: Client auto-74B154B7-8EFE-5F2D-28C0-2ED3CEA66FC5 disconnected, not authorised.
+1728553207: New connection from 172.19.0.4:60301 on port 1883.
+1728553207: Client auto-229A5944-C176-8D0E-8030-00C924E448C3 disconnected, not authorised.
+1728553327: New connection from 172.19.0.4:57685 on port 1883.
+1728553327: Client auto-E6E1F348-B38E-A504-623D-499D79CAD14A disconnected, not authorised.
+1728553447: New connection from 172.19.0.4:50959 on port 1883.
+1728553447: Client auto-188FF76B-730E-81A6-0AA0-266BB3836D94 disconnected, not authorised.
+1728553567: New connection from 172.19.0.4:39875 on port 1883.
+1728553567: Client auto-630241ED-B65F-1174-44C2-578A3ACDF50F disconnected, not authorised.
+1728553687: New connection from 172.19.0.4:58589 on port 1883.
+1728553687: Client auto-A8D85B3F-20F8-4963-033A-523F40A9F6B1 disconnected, not authorised.
+1728553807: New connection from 172.19.0.4:52523 on port 1883.
+1728553807: Client auto-EA1A13FD-1E3E-2B39-B1CD-2CB13742287D disconnected, not authorised.
+1728553912: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728553927: New connection from 172.19.0.4:49871 on port 1883.
+1728553927: Client auto-FB5D6E4C-7A6E-B13D-679E-F09B388F4DFB disconnected, not authorised.
+1728554047: New connection from 172.19.0.4:35287 on port 1883.
+1728554047: Client auto-933A8542-4450-4F1D-0265-C90AD9E93BE2 disconnected, not authorised.
+1728554167: New connection from 172.19.0.4:52601 on port 1883.
+1728554167: Client auto-2DC4087A-F548-5053-DBED-9200B9CC794E disconnected, not authorised.
+1728554287: New connection from 172.19.0.4:56793 on port 1883.
+1728554287: Client auto-0E4B1E02-F403-FB6A-378A-FB40D69384A0 disconnected, not authorised.
+1728554407: New connection from 172.19.0.4:59527 on port 1883.
+1728554407: Client auto-20525D0F-9C79-12DE-EFCE-B2B6948C1846 disconnected, not authorised.
+1728554527: New connection from 172.19.0.4:59393 on port 1883.
+1728554527: Client auto-417B9C28-F6E8-07AF-32DB-8598251AE14E disconnected, not authorised.
+1728554647: New connection from 172.19.0.4:58543 on port 1883.
+1728554647: Client auto-2720588A-5878-DDAD-36C5-34038640E81D disconnected, not authorised.
+1728554767: New connection from 172.19.0.4:33159 on port 1883.
+1728554767: Client auto-A384975B-517B-AA03-13C4-DB344A15EBF4 disconnected, not authorised.
+1728554887: New connection from 172.19.0.4:35925 on port 1883.
+1728554887: Client auto-107E969B-9204-15F5-4741-2A4CD453EE87 disconnected, not authorised.
+1728555007: New connection from 172.19.0.4:51917 on port 1883.
+1728555007: Client auto-69E29C3A-EF3F-738E-6791-D1B132418744 disconnected, not authorised.
+1728555127: New connection from 172.19.0.4:37753 on port 1883.
+1728555127: Client auto-0B5A7379-A180-DC43-76DA-8C792A1B6FF6 disconnected, not authorised.
+1728555247: New connection from 172.19.0.4:59663 on port 1883.
+1728555247: Client auto-2EEFF48D-4DB6-DAC6-E2C1-26AAE326853D disconnected, not authorised.
+1728555367: New connection from 172.19.0.4:45033 on port 1883.
+1728555367: Client auto-949F244E-6E51-F601-4C0D-F8679BE9097F disconnected, not authorised.
+1728555487: New connection from 172.19.0.4:46215 on port 1883.
+1728555487: Client auto-4C61ED64-D2EB-F509-69C7-70E4CE9E184E disconnected, not authorised.
+1728555607: New connection from 172.19.0.4:52649 on port 1883.
+1728555607: Client auto-1840F1DB-456F-8C09-F530-E9D3B21F6A3E disconnected, not authorised.
+1728555753: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728556807: New connection from 172.19.0.4:57311 on port 1883.
+1728556807: Client auto-1BDF1D66-361D-E6CA-F4F2-CE778FCC67F6 disconnected, not authorised.
+1728556927: New connection from 172.19.0.4:59391 on port 1883.
+1728556927: Client auto-3F2E714D-7484-30F7-7CD6-70D6270141BB disconnected, not authorised.
+1728557952: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728557958: New connection from 172.19.0.4:40115 on port 1883.
+1728557958: Client auto-A087CB96-FFC8-1032-6FDD-657389051675 disconnected, not authorised.
+1728558488: New connection from 172.19.0.4:45821 on port 1883.
+1728558488: Client auto-7CBB3C1D-3DBB-428E-EE08-CF3C72E62559 disconnected, not authorised.
+1728558608: New connection from 172.19.0.4:52967 on port 1883.
+1728558608: Client auto-8005F4CD-4F29-0926-B37B-0661FBFEC7C3 disconnected, not authorised.
+1728558821: New connection from 172.19.0.4:53981 on port 1883.
+1728558821: Client auto-8AEB65CF-6988-907C-ACD8-648AB8DDD8EF disconnected, not authorised.
+1728558941: New connection from 172.19.0.4:41367 on port 1883.
+1728558941: Client auto-61442233-F6BF-C021-E371-955ECC228557 disconnected, not authorised.
+1728559061: New connection from 172.19.0.4:42157 on port 1883.
+1728559061: Client auto-C7707179-538B-5A0C-E16E-09F7A30AA6A8 disconnected, not authorised.
+1728559181: New connection from 172.19.0.4:38663 on port 1883.
+1728559181: Client auto-C0DDF439-D7C0-64EE-D456-C7C5EF97B989 disconnected, not authorised.
+1728559301: New connection from 172.19.0.4:49699 on port 1883.
+1728559301: Client auto-BFF30A1F-C0B8-65F4-2C1D-58B8158B0CC1 disconnected, not authorised.
+1728559421: New connection from 172.19.0.4:56419 on port 1883.
+1728559422: Client auto-4A80E7EE-6D0C-FD0E-61DF-3CD3C6DAFF2D disconnected, not authorised.
+1728559542: New connection from 172.19.0.4:33649 on port 1883.
+1728559542: Client auto-336A6829-DDEF-2133-7E77-A6F4659D6055 disconnected, not authorised.
+1728559662: New connection from 172.19.0.4:53193 on port 1883.
+1728559662: Client auto-E1356C90-2BE3-939A-C9E8-9636DFAED0C5 disconnected, not authorised.
+1728559753: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728559782: New connection from 172.19.0.4:52487 on port 1883.
+1728559782: Client auto-5F6EE862-C161-60E0-BB0B-2106320CCE55 disconnected, not authorised.
+1728559902: New connection from 172.19.0.4:54057 on port 1883.
+1728559902: Client auto-97E8D1BB-F151-BD61-B44B-67E7E8EF0D5A disconnected, not authorised.
+1728560022: New connection from 172.19.0.4:46135 on port 1883.
+1728560022: Client auto-60B33142-BA40-A00F-FE72-6197CA18758A disconnected, not authorised.
+1728560142: New connection from 172.19.0.4:60199 on port 1883.
+1728560142: Client auto-389B6DBD-9826-91D4-7DC4-295E3F1C702E disconnected, not authorised.
+1728560262: New connection from 172.19.0.4:41859 on port 1883.
+1728560262: Client auto-518F5E3C-1B32-0EC5-8C11-DDFB3D657D0C disconnected, not authorised.
+1728560382: New connection from 172.19.0.4:60599 on port 1883.
+1728560382: Client auto-C0B0EFAE-781C-FFBE-74C0-E6B69D81D6E8 disconnected, not authorised.
+1728560502: New connection from 172.19.0.4:57539 on port 1883.
+1728560502: Client auto-DBAAEC34-0BAD-331A-60F7-C5D4F1E1728B disconnected, not authorised.
+1728560622: New connection from 172.19.0.4:55633 on port 1883.
+1728560622: Client auto-E098328E-0D8C-9139-5FA5-D243337B6676 disconnected, not authorised.
+1728560703: New connection from 192.168.65.1:52211 on port 1883.
+1728560703: New client connected from 192.168.65.1:52211 as auto-6666E324-20E4-AFF8-E190-0FD26ECB0D6D (p2, c1, k60, u'abhinavram2002').
+1728560709: New connection from 192.168.65.1:28473 on port 1883.
+1728560709: New client connected from 192.168.65.1:28473 as auto-87992704-6BA0-F474-BFE7-E658AC3A1E2D (p2, c1, k60, u'abhinavram2002').
+1728560742: New connection from 172.19.0.4:43995 on port 1883.
+1728560742: Client auto-70D86A6B-9BCC-9A11-2579-0D12D25679F7 disconnected, not authorised.
+1728560795: Client auto-6666E324-20E4-AFF8-E190-0FD26ECB0D6D has exceeded timeout, disconnecting.
+1728560831: Client auto-87992704-6BA0-F474-BFE7-E658AC3A1E2D has exceeded timeout, disconnecting.
+1728560862: New connection from 172.19.0.4:60597 on port 1883.
+1728560862: Client auto-F913777B-7C6C-0CEA-36FA-89CE935FAF8B disconnected, not authorised.
+1728560982: New connection from 172.19.0.4:43509 on port 1883.
+1728560982: Client auto-824770F1-4633-87BB-8085-FC948EC4E371 disconnected, not authorised.
+1728561102: New connection from 172.19.0.4:42839 on port 1883.
+1728561102: Client auto-0B8CE578-4503-D7F8-4BAE-DB24DC255EE0 disconnected, not authorised.
+1728561222: New connection from 172.19.0.4:49041 on port 1883.
+1728561222: Client auto-D8FFEA9F-1BE9-6813-4FA7-1C2C8D3DBF56 disconnected, not authorised.
+1728561342: New connection from 172.19.0.4:37191 on port 1883.
+1728561342: Client auto-488D96F2-E041-D1A5-920A-6624355626EC disconnected, not authorised.
+1728561452: New connection from 192.168.65.1:47318 on port 1883.
+1728561452: New client connected from 192.168.65.1:47318 as auto-30642881-73EC-5EC5-2063-735D650C2E96 (p2, c1, k60, u'abhinavram2002').
+1728561462: New connection from 172.19.0.4:55601 on port 1883.
+1728561462: Client auto-68C0285A-DD8E-EBD9-DB85-BB5B9B1B115A disconnected, not authorised.
+1728561554: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728561582: New connection from 172.19.0.4:49249 on port 1883.
+1728561582: Client auto-8F8C1857-C629-B117-8DF4-2F9D871972B1 disconnected, not authorised.
+1728561702: New connection from 172.19.0.4:35447 on port 1883.
+1728561702: Client auto-8F269697-E422-F89D-178C-7E9166B24932 disconnected, not authorised.
+1728561763: Client auto-30642881-73EC-5EC5-2063-735D650C2E96 closed its connection.
+1728561763: New connection from 192.168.65.1:51550 on port 1883.
+1728561763: New client connected from 192.168.65.1:51550 as auto-78761195-5FC8-6851-06FA-4B91A84A6541 (p2, c1, k60, u'abhinavram2002').
+1728561785: Client auto-78761195-5FC8-6851-06FA-4B91A84A6541 closed its connection.
+1728561785: New connection from 192.168.65.1:22346 on port 1883.
+1728561785: New client connected from 192.168.65.1:22346 as auto-8C99B332-AF8A-83D2-BF1E-D354B09B035B (p2, c1, k60, u'abhinavram2002').
+1728561787: Client auto-8C99B332-AF8A-83D2-BF1E-D354B09B035B closed its connection.
+1728561787: New connection from 192.168.65.1:50632 on port 1883.
+1728561787: New client connected from 192.168.65.1:50632 as auto-42F4E267-42FA-9D17-5631-23F40D3CFCFB (p2, c1, k60, u'abhinavram2002').
+1728561792: Client auto-42F4E267-42FA-9D17-5631-23F40D3CFCFB closed its connection.
+1728561792: New connection from 192.168.65.1:60012 on port 1883.
+1728561792: New client connected from 192.168.65.1:60012 as auto-524C6492-5FC9-BF6E-7DF4-AE669A9D9243 (p2, c1, k60, u'abhinavram2002').
+1728561822: New connection from 172.19.0.4:52943 on port 1883.
+1728561822: Client auto-7AF6F553-89BD-F11E-B736-9F6FB71BAFF1 disconnected, not authorised.
+1728561836: Client auto-524C6492-5FC9-BF6E-7DF4-AE669A9D9243 closed its connection.
+1728561931: New connection from 192.168.65.1:60771 on port 1883.
+1728561931: New client connected from 192.168.65.1:60771 as auto-570E4FE3-E6CB-B613-AB7B-49A19B32D881 (p2, c1, k60, u'abhinavram2002').
+1728561936: New connection from 192.168.65.1:28873 on port 1883.
+1728561936: New client connected from 192.168.65.1:28873 as auto-44197780-8BDA-9925-DBA7-9C78DDDFC1C4 (p2, c1, k60, u'abhinavram2002').
+1728561942: New connection from 172.19.0.4:36445 on port 1883.
+1728561942: Client auto-06FBCCB3-77A1-F19E-F38B-946422E60662 disconnected, not authorised.
+1728562062: New connection from 172.19.0.4:33289 on port 1883.
+1728562062: Client auto-A366EB32-F8ED-5653-15A0-14A1495D9FA4 disconnected, not authorised.
+1728562150: Client auto-44197780-8BDA-9925-DBA7-9C78DDDFC1C4 closed its connection.
+1728562150: New connection from 192.168.65.1:61156 on port 1883.
+1728562150: New client connected from 192.168.65.1:61156 as auto-68B253DD-8979-650A-6C9C-5FBC3E90ADF1 (p2, c1, k60, u'abhinavram2002').
+1728562182: New connection from 172.19.0.4:44883 on port 1883.
+1728562182: Client auto-60D278BD-FFB6-A51D-E23A-6C31FDD4534B disconnected, not authorised.
+1728562302: New connection from 172.19.0.4:43271 on port 1883.
+1728562302: Client auto-6CC279AF-913E-3E6C-D442-E27F955297A8 disconnected, not authorised.
+1728562328: Client auto-68B253DD-8979-650A-6C9C-5FBC3E90ADF1 closed its connection.
+1728562328: New connection from 192.168.65.1:18373 on port 1883.
+1728562328: New client connected from 192.168.65.1:18373 as auto-2F587889-F9DF-B91A-008C-C68374A804D7 (p2, c1, k60, u'abhinavram2002').
+1728562422: New connection from 172.19.0.4:53905 on port 1883.
+1728562422: Client auto-EEFBB2AB-FD92-B31E-2D1F-2393EE11E5FF disconnected, not authorised.
+1728562542: New connection from 172.19.0.4:58331 on port 1883.
+1728562542: Client auto-ABE01E85-5ACB-E1F5-1A8C-683983B5E12B disconnected, not authorised.
+1728562662: New connection from 172.19.0.4:55331 on port 1883.
+1728562662: Client auto-F03A9BD2-DFF2-1660-E984-88AED1670B85 disconnected, not authorised.
+1728562708: Client auto-2F587889-F9DF-B91A-008C-C68374A804D7 closed its connection.
+1728562708: New connection from 192.168.65.1:29525 on port 1883.
+1728562708: New client connected from 192.168.65.1:29525 as auto-DBB8C035-275A-CC9A-0D43-63E6F6118A1A (p2, c1, k60, u'abhinavram2002').
+1728562711: Client auto-DBB8C035-275A-CC9A-0D43-63E6F6118A1A closed its connection.
+1728562711: New connection from 192.168.65.1:38092 on port 1883.
+1728562711: New client connected from 192.168.65.1:38092 as auto-1249C3FC-981F-88E9-EB8D-4236D04EFDF5 (p2, c1, k60, u'abhinavram2002').
+1728562782: New connection from 172.19.0.4:53799 on port 1883.
+1728562782: Client auto-A323F83F-292F-C6ED-09EF-ABA9DA58B7EF disconnected, not authorised.
+1728562894: Client auto-1249C3FC-981F-88E9-EB8D-4236D04EFDF5 closed its connection.
+1728562894: New connection from 192.168.65.1:52847 on port 1883.
+1728562894: New client connected from 192.168.65.1:52847 as auto-91B9043F-FAA7-08D1-9244-9ECFAF209732 (p2, c1, k60, u'abhinavram2002').
+1728562902: New connection from 172.19.0.4:49821 on port 1883.
+1728562902: Client auto-115C9D53-FC0B-D704-0A93-D9E5D133E738 disconnected, not authorised.
+1728562965: Client auto-91B9043F-FAA7-08D1-9244-9ECFAF209732 closed its connection.
+1728562965: New connection from 192.168.65.1:41709 on port 1883.
+1728562965: New client connected from 192.168.65.1:41709 as auto-BC3ADFC4-4461-1ECA-640E-FEB6FAA0BFD9 (p2, c1, k60, u'abhinavram2002').
+1728563022: New connection from 172.19.0.4:49943 on port 1883.
+1728563022: Client auto-5BA9EE47-14C1-8C4D-6A02-89568F15277A disconnected, not authorised.
+1728563096: Client auto-BC3ADFC4-4461-1ECA-640E-FEB6FAA0BFD9 closed its connection.
+1728563096: New connection from 192.168.65.1:30259 on port 1883.
+1728563096: New client connected from 192.168.65.1:30259 as auto-81F2A43C-6BD6-67BA-82DA-D63A36390306 (p2, c1, k60, u'abhinavram2002').
+1728563142: New connection from 172.19.0.4:48395 on port 1883.
+1728563142: Client auto-046A4F0C-13D1-172D-097F-01FC2C7384D0 disconnected, not authorised.
+1728563262: New connection from 172.19.0.4:51089 on port 1883.
+1728563262: Client auto-497F2546-D2EA-77A3-E31D-ABB214D41E64 disconnected, not authorised.
+1728563355: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728563382: New connection from 172.19.0.4:53571 on port 1883.
+1728563382: Client auto-8149152E-3279-0FA2-D337-A47C5CAECACB disconnected, not authorised.
+1728563570: Client auto-570E4FE3-E6CB-B613-AB7B-49A19B32D881 has exceeded timeout, disconnecting.
+1728563570: Client auto-81F2A43C-6BD6-67BA-82DA-D63A36390306 has exceeded timeout, disconnecting.
+1728563571: New connection from 192.168.65.1:30108 on port 1883.
+1728563571: New connection from 192.168.65.1:58158 on port 1883.
+1728563571: New client connected from 192.168.65.1:30108 as auto-0F597D0E-81C4-A679-8939-FE5F341FA5BF (p2, c1, k60, u'abhinavram2002').
+1728563571: New client connected from 192.168.65.1:58158 as auto-F0AE1F62-1381-FF30-7AAE-21C1BCD88974 (p2, c1, k60, u'abhinavram2002').
+1728563635: New connection from 172.19.0.4:41333 on port 1883.
+1728563635: Client auto-508691A8-3771-299E-E799-9D170CC539EE disconnected, not authorised.
+1728563646: Client auto-0F597D0E-81C4-A679-8939-FE5F341FA5BF closed its connection.
+1728563646: New connection from 192.168.65.1:28301 on port 1883.
+1728563646: New client connected from 192.168.65.1:28301 as auto-43F37550-2A24-4B37-BD9E-3396F60568B1 (p2, c1, k60, u'abhinavram2002').
+1728563648: Client auto-43F37550-2A24-4B37-BD9E-3396F60568B1 closed its connection.
+1728563649: New connection from 192.168.65.1:54720 on port 1883.
+1728563649: New client connected from 192.168.65.1:54720 as auto-C3759F24-3F7D-A2F6-4532-88DAEC16D89A (p2, c1, k60, u'abhinavram2002').
+1728563691: Client auto-C3759F24-3F7D-A2F6-4532-88DAEC16D89A closed its connection.
+1728563691: New connection from 192.168.65.1:65211 on port 1883.
+1728563691: New client connected from 192.168.65.1:65211 as auto-3E6AAB83-6F2D-3CEC-672D-E6C4D5E87FCB (p2, c1, k60, u'abhinavram2002').
+1728563696: Client auto-3E6AAB83-6F2D-3CEC-672D-E6C4D5E87FCB closed its connection.
+1728563696: New connection from 192.168.65.1:20522 on port 1883.
+1728563696: New client connected from 192.168.65.1:20522 as auto-A8EF82A5-53DE-5F74-1558-E806BC3253AA (p2, c1, k60, u'abhinavram2002').
+1728563755: New connection from 172.19.0.4:36577 on port 1883.
+1728563755: Client auto-C106B1AA-F294-DF9F-B50E-B09C54C83CEC disconnected, not authorised.
+1728563875: New connection from 172.19.0.4:39103 on port 1883.
+1728563875: Client auto-2A0ECF21-54E1-49E4-2AFA-3C1875489C33 disconnected, not authorised.
+1728563995: New connection from 172.19.0.4:44181 on port 1883.
+1728563995: Client auto-48A53E10-F6F1-9478-3688-5C33E6572B7E disconnected, not authorised.
+1728564115: New connection from 172.19.0.4:44997 on port 1883.
+1728564115: Client auto-055069CD-D22C-4073-1BC6-183C04B88BC5 disconnected, not authorised.
+1728564235: New connection from 172.19.0.4:52043 on port 1883.
+1728564235: Client auto-8F107FAB-E5B5-6DDB-4348-D8DA94FA4202 disconnected, not authorised.
+1728564355: New connection from 172.19.0.4:41731 on port 1883.
+1728564355: Client auto-07220692-B3CE-0B1D-E1F4-091D2AF61158 disconnected, not authorised.
+1728564475: New connection from 172.19.0.4:55161 on port 1883.
+1728564475: Client auto-9AE71395-CACC-B00B-6F45-92587C1B28B3 disconnected, not authorised.
+1728564595: New connection from 172.19.0.4:56799 on port 1883.
+1728564595: Client auto-5B4BC47B-7DF4-5319-ABD6-38B45A13DD7B disconnected, not authorised.
+1728564715: New connection from 172.19.0.4:56821 on port 1883.
+1728564715: Client auto-8BCD09B1-39DF-2DED-B20D-EC1E6923E055 disconnected, not authorised.
+1728564835: New connection from 172.19.0.4:57147 on port 1883.
+1728564835: Client auto-128A06EB-015E-9C8E-34BF-E60BA1139670 disconnected, not authorised.
+1728564955: New connection from 172.19.0.4:33385 on port 1883.
+1728564955: Client auto-2FE552CE-E731-8B0A-164C-5A6CB625AD29 disconnected, not authorised.
+1728565075: New connection from 172.19.0.4:60273 on port 1883.
+1728565075: Client auto-6A78FB75-C4E0-96B3-97BF-70A4F77BB469 disconnected, not authorised.
+1728565156: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728565195: New connection from 172.19.0.4:39495 on port 1883.
+1728565195: Client auto-02602764-E73E-6311-5C96-5EAD05D3B479 disconnected, not authorised.
+1728565315: New connection from 172.19.0.4:55103 on port 1883.
+1728565315: Client auto-75E4F139-F597-22B1-996E-66F9AA568D37 disconnected, not authorised.
+1728565435: New connection from 172.19.0.4:36267 on port 1883.
+1728565435: Client auto-C23DDBBA-6E11-B684-7FCD-DC5A778493D3 disconnected, not authorised.
+1728565555: New connection from 172.19.0.4:58591 on port 1883.
+1728565555: Client auto-C034CDD2-AC50-B07B-3B4D-0F9A21ABC749 disconnected, not authorised.
+1728565675: New connection from 172.19.0.4:40207 on port 1883.
+1728565675: Client auto-3513DAB6-9B1E-9CED-E095-640E3659567B disconnected, not authorised.
+1728565795: New connection from 172.19.0.4:34559 on port 1883.
+1728565795: Client auto-362E2142-8AF4-97B2-ABBA-891D61A46212 disconnected, not authorised.
+1728565915: New connection from 172.19.0.4:43735 on port 1883.
+1728565915: Client auto-1E8B5DE8-2C06-AE75-A1D7-BD0287DCEF59 disconnected, not authorised.
+1728565986: mosquitto version 2.0.19 terminating
+1728565986: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728566027: mosquitto version 2.0.19 starting
+1728566027: Config loaded from /mosquitto/config/mosquitto.conf.
+1728566027: Opening ipv4 listen socket on port 9001.
+1728566027: Opening ipv6 listen socket on port 9001.
+1728566027: Opening ipv4 listen socket on port 1883.
+1728566027: Opening ipv6 listen socket on port 1883.
+1728566027: mosquitto version 2.0.19 running
+1728566027: New connection from 172.19.0.4:56191 on port 1883.
+1728566027: Client auto-60F0FCA5-E310-9B61-DC46-F544FEF0B378 disconnected, not authorised.
+1728566028: New connection from 172.19.0.4:38957 on port 1883.
+1728566028: Client auto-DBD82148-7559-945B-E828-61A47DF2A173 disconnected, not authorised.
+1728566030: New connection from 172.19.0.4:55777 on port 1883.
+1728566030: Client auto-60EAF887-E1B9-7508-30B7-28C6B2A69B3E disconnected, not authorised.
+1728566034: New connection from 172.19.0.4:46817 on port 1883.
+1728566034: Client auto-175D7C7C-3AB4-33CF-60F2-C57953C4007E disconnected, not authorised.
+1728566042: New connection from 172.19.0.4:50649 on port 1883.
+1728566042: Client auto-1A3E6D9E-D911-6F3B-0FD2-4C37D1E74B62 disconnected, not authorised.
+1728566049: New connection from 192.168.65.1:19512 on port 1883.
+1728566049: New client connected from 192.168.65.1:19512 as auto-E26F87A5-4D5A-5DC1-E827-A7C556E54007 (p2, c1, k60, u'abhinavram2002').
+1728566049: New connection from 192.168.65.1:43770 on port 1883.
+1728566049: New client connected from 192.168.65.1:43770 as auto-4CD2578D-D008-B47A-9D3B-5B5384934644 (p2, c1, k60, u'abhinavram2002').
+1728566058: New connection from 172.19.0.4:60077 on port 1883.
+1728566058: Client auto-BF352381-C1D2-927E-FCD7-95C9C792AF35 disconnected, not authorised.
+1728566059: New connection from 172.19.0.4:49637 on port 1883.
+1728566059: Client auto-FBB29083-0A79-35C4-0147-DDBB0F721075 disconnected, not authorised.
+1728566061: New connection from 172.19.0.4:38403 on port 1883.
+1728566061: Client auto-33FE976C-7DFD-A69E-FEE6-942A5E7974AA disconnected, not authorised.
+1728566065: New connection from 172.19.0.4:40967 on port 1883.
+1728566065: Client auto-ADC72844-6132-8344-572D-4D1B695A65A1 disconnected, not authorised.
+1728566073: New connection from 172.19.0.4:48537 on port 1883.
+1728566073: Client auto-7E31FF9E-C064-D001-CB71-0A631A026586 disconnected, not authorised.
+1728566078: Client auto-4CD2578D-D008-B47A-9D3B-5B5384934644 closed its connection.
+1728566078: Client auto-E26F87A5-4D5A-5DC1-E827-A7C556E54007 closed its connection.
+1728566081: New connection from 192.168.65.1:60222 on port 1883.
+1728566081: New client connected from 192.168.65.1:60222 as auto-0D75FB40-7C2A-5495-97FD-420777DDA2B5 (p2, c1, k60, u'abhinavram2002').
+1728566086: New connection from 192.168.65.1:35633 on port 1883.
+1728566086: New client connected from 192.168.65.1:35633 as auto-F5EE2451-FE6F-C7D4-E1C9-4D18F088B4E3 (p2, c1, k60, u'abhinavram2002').
+1728566089: New connection from 172.19.0.4:52981 on port 1883.
+1728566089: Client auto-A4C695F9-64CB-22A5-14DA-E97A8C12AAB4 disconnected, not authorised.
+1728566119: New connection from 192.168.65.1:16760 on port 1883.
+1728566119: New client connected from 192.168.65.1:16760 as auto-85661662-0790-662D-C2E5-6203C436BBBA (p2, c1, k60, u'abhinavram2002').
+1728566119: Client auto-85661662-0790-662D-C2E5-6203C436BBBA closed its connection.
+1728566121: New connection from 172.19.0.4:47301 on port 1883.
+1728566121: Client auto-2138DD49-FBD1-3F14-CC36-74A5630D90DE disconnected, not authorised.
+1728566185: New connection from 172.19.0.4:56787 on port 1883.
+1728566185: Client auto-6A9E0E56-ABC0-6AB6-B544-0B4F9B8FD16B disconnected, not authorised.
+1728566305: New connection from 172.19.0.4:49991 on port 1883.
+1728566305: Client auto-3AE177DC-6FCF-075B-1D04-870A1765FD65 disconnected, not authorised.
+1728566425: New connection from 172.19.0.4:50375 on port 1883.
+1728566425: Client auto-ED7D458B-9F3E-2AA3-F7FD-21C08D15C44F disconnected, not authorised.
+1728566515: New connection from 192.168.65.1:38562 on port 1883.
+1728566515: New client connected from 192.168.65.1:38562 as auto-5ECEA21D-D33F-9E97-9C34-3D28733A5AF4 (p2, c1, k60, u'abhinavram2002').
+1728566515: Client auto-5ECEA21D-D33F-9E97-9C34-3D28733A5AF4 closed its connection.
+1728566545: New connection from 172.19.0.4:52199 on port 1883.
+1728566545: Client auto-15105A7D-A741-94D7-E4DA-A4511131E51E disconnected, not authorised.
+1728566665: New connection from 172.19.0.4:59137 on port 1883.
+1728566665: Client auto-861B82E4-8A65-9930-462C-F60225EE727F disconnected, not authorised.
+1728566785: New connection from 172.19.0.4:47307 on port 1883.
+1728566785: Client auto-5647521A-B397-06E1-3FB5-78710CB11146 disconnected, not authorised.
+1728566905: New connection from 172.19.0.4:36223 on port 1883.
+1728566905: Client auto-E943A08D-7EB4-B333-D516-FE095FCCE4EB disconnected, not authorised.
+1728566983: Client auto-F5EE2451-FE6F-C7D4-E1C9-4D18F088B4E3 closed its connection.
+1728566983: New connection from 192.168.65.1:30906 on port 1883.
+1728566983: New client connected from 192.168.65.1:30906 as auto-23FA821D-801F-BF2A-AB9B-EB8194CE440C (p2, c1, k60, u'abhinavram2002').
+1728567025: New connection from 172.19.0.4:37873 on port 1883.
+1728567025: Client auto-403CCA3F-8A5D-1537-69A1-7F6D974BF6D3 disconnected, not authorised.
+1728567145: New connection from 172.19.0.4:46349 on port 1883.
+1728567145: Client auto-1754E688-E992-F480-245C-8E16FC1C851B disconnected, not authorised.
+1728567265: New connection from 172.19.0.4:59681 on port 1883.
+1728567265: Client auto-BFF6D7ED-1F33-1638-7012-CD302CF40D17 disconnected, not authorised.
+1728567385: New connection from 172.19.0.4:52439 on port 1883.
+1728567385: Client auto-72DFC054-5848-A496-E353-190707D99FE4 disconnected, not authorised.
+1728567505: New connection from 172.19.0.4:59295 on port 1883.
+1728567505: Client auto-F1668455-A806-9E03-9E7F-ACD4117116D9 disconnected, not authorised.
+1728567577: Client auto-23FA821D-801F-BF2A-AB9B-EB8194CE440C closed its connection.
+1728567577: New connection from 192.168.65.1:35091 on port 1883.
+1728567577: New client connected from 192.168.65.1:35091 as auto-59CD4FF6-0200-9F4A-84DD-BAE15EE21969 (p2, c1, k60, u'abhinavram2002').
+1728567616: Client auto-59CD4FF6-0200-9F4A-84DD-BAE15EE21969 closed its connection.
+1728567616: New connection from 192.168.65.1:40239 on port 1883.
+1728567616: New client connected from 192.168.65.1:40239 as auto-76E443F6-3881-1FE8-8862-D36B298452F1 (p2, c1, k60, u'abhinavram2002').
+1728567625: New connection from 172.19.0.4:45889 on port 1883.
+1728567625: Client auto-910A0AA5-72F2-C665-1125-7B85273F8F08 disconnected, not authorised.
+1728567745: New connection from 172.19.0.4:36589 on port 1883.
+1728567745: Client auto-D4784F2E-5CC4-3BDC-06D6-0205C2F0E25E disconnected, not authorised.
+1728567828: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728567865: New connection from 172.19.0.4:57223 on port 1883.
+1728567865: Client auto-4F0011CF-7416-22D1-BE73-38966984D019 disconnected, not authorised.
+1728567985: New connection from 172.19.0.4:47961 on port 1883.
+1728567985: Client auto-171EF9E8-EDF3-A906-EDCF-F936AE5AE4B8 disconnected, not authorised.
+1728568105: New connection from 172.19.0.4:34159 on port 1883.
+1728568105: Client auto-06A1C931-F0CF-A2D1-AB8B-9EB2B9D1B6E4 disconnected, not authorised.
+1728568135: Client auto-76E443F6-3881-1FE8-8862-D36B298452F1 closed its connection.
+1728568136: New connection from 192.168.65.1:45746 on port 1883.
+1728568136: New client connected from 192.168.65.1:45746 as auto-677DEF25-5BC9-9280-3FB5-591EAF917287 (p2, c1, k60, u'abhinavram2002').
+1728568225: New connection from 172.19.0.4:56413 on port 1883.
+1728568225: Client auto-5C40B8FE-E5A8-2836-8DD8-FD1F2C20A787 disconnected, not authorised.
+1728568345: New connection from 172.19.0.4:47217 on port 1883.
+1728568345: Client auto-73286E1A-2069-76E4-C36D-5F8A29B89444 disconnected, not authorised.
+1728568465: New connection from 172.19.0.4:53765 on port 1883.
+1728568465: Client auto-E1509698-DFD7-E1C1-00DB-F5FEAE401984 disconnected, not authorised.
+1728568585: New connection from 172.19.0.4:48265 on port 1883.
+1728568585: Client auto-0A0226D4-1E3F-6C7C-5EA3-315A2376B02E disconnected, not authorised.
+1728568705: New connection from 172.19.0.4:46851 on port 1883.
+1728568705: Client auto-7D5E1002-7AE7-3FA7-23C2-C47F3C4F513B disconnected, not authorised.
+1728568825: New connection from 172.19.0.4:47001 on port 1883.
+1728568825: Client auto-3172BA42-EEBC-DC0D-C976-FB3586D32469 disconnected, not authorised.
+1728568945: New connection from 172.19.0.4:42505 on port 1883.
+1728568945: Client auto-3539FF32-0CCE-74D4-3FBF-390B0D643062 disconnected, not authorised.
+1728569065: New connection from 172.19.0.4:36841 on port 1883.
+1728569065: Client auto-7A9CBE9B-E649-7C23-7A7A-06224D80F876 disconnected, not authorised.
+1728569185: New connection from 172.19.0.4:58725 on port 1883.
+1728569185: Client auto-5B723DE8-05B7-1F46-C02E-9F926A46DBA1 disconnected, not authorised.
+1728569305: New connection from 172.19.0.4:43687 on port 1883.
+1728569305: Client auto-BD279618-284F-BF02-0024-C76E1C9BE58C disconnected, not authorised.
+1728569425: New connection from 172.19.0.4:57503 on port 1883.
+1728569425: Client auto-E4DE8CDC-3C17-C09F-932C-A0A25800CC5B disconnected, not authorised.
+1728569511: New connection from 192.168.65.1:51917 on port 1883.
+1728569511: New client connected from 192.168.65.1:51917 as auto-0F0C3195-37A8-5267-3E89-DF8FE0985960 (p2, c1, k60, u'abhinavram2002').
+1728569514: New connection from 192.168.65.1:58987 on port 1883.
+1728569514: New client connected from 192.168.65.1:58987 as auto-00F9BE59-2DBE-AF6A-A14D-5E8B3637C87B (p2, c1, k60, u'abhinavram2002').
+1728569545: New connection from 172.19.0.4:37011 on port 1883.
+1728569545: Client auto-04C6B0EC-6518-B937-749D-D1108A7BA0D9 disconnected, not authorised.
+1728569629: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728569665: New connection from 172.19.0.4:46447 on port 1883.
+1728569665: Client auto-C5B98D2D-296F-3329-3B7C-0277591E1EA3 disconnected, not authorised.
+1728569785: New connection from 172.19.0.4:39003 on port 1883.
+1728569785: Client auto-1EA0D42A-A041-E050-1C9F-6D14CE50B97E disconnected, not authorised.
+1728569905: New connection from 172.19.0.4:53219 on port 1883.
+1728569905: Client auto-F8005511-C80B-EFEB-8763-0ED4B5C85AC2 disconnected, not authorised.
+1728570025: New connection from 172.19.0.4:59713 on port 1883.
+1728570025: Client auto-C8A42709-9FFE-FF44-C57E-44904FAA605A disconnected, not authorised.
+1728570145: New connection from 172.19.0.4:45217 on port 1883.
+1728570145: Client auto-BDF382D1-A88C-6D25-7CAF-CCE001CFD95E disconnected, not authorised.
+1728570165: mosquitto version 2.0.19 terminating
+1728570165: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728570277: mosquitto version 2.0.19 starting
+1728570277: Config loaded from /mosquitto/config/mosquitto.conf.
+1728570277: Opening ipv4 listen socket on port 9001.
+1728570277: Opening ipv6 listen socket on port 9001.
+1728570277: Opening ipv4 listen socket on port 1883.
+1728570277: Opening ipv6 listen socket on port 1883.
+1728570277: mosquitto version 2.0.19 running
+1728570292: New connection from 192.168.65.1:16104 on port 1883.
+1728570292: New client connected from 192.168.65.1:16104 as auto-4C7A6DB2-550B-71C6-860A-0568C32B957F (p2, c1, k60, u'abhinavram2002').
+1728570292: New connection from 192.168.65.1:23325 on port 1883.
+1728570292: New client connected from 192.168.65.1:23325 as auto-70F25760-D156-D803-C648-2157A527AD94 (p2, c1, k60, u'abhinavram2002').
+1728570293: New connection from 192.168.65.1:30735 on port 1883.
+1728570293: New connection from 192.168.65.1:29525 on port 1883.
+1728570293: New client connected from 192.168.65.1:30735 as auto-12B6B027-5346-F427-85C0-279727330BC3 (p2, c1, k60, u'abhinavram2002').
+1728570293: New client connected from 192.168.65.1:29525 as auto-3C4F1DFD-9054-3EA0-E4E6-3BCEC762B601 (p2, c1, k60, u'abhinavram2002').
+1728570668: New connection from 192.168.65.1:31464 on port 1883.
+1728570668: Client auto-7DE16D1C-42EA-B5FB-44F2-4A61B3633EFE disconnected, not authorised.
+1728570669: New connection from 192.168.65.1:29988 on port 1883.
+1728570669: Client auto-5D336764-96C1-9DD5-812B-12DD4A29C5CD disconnected, not authorised.
+1728570671: New connection from 192.168.65.1:22672 on port 1883.
+1728570671: Client auto-9C9D967A-6DEA-6959-7985-B4C0624746B2 disconnected, not authorised.
+1728570675: New connection from 192.168.65.1:31912 on port 1883.
+1728570675: Client auto-4B142EC5-38DA-5CFC-51F4-E0E705E91E85 disconnected, not authorised.
+1728570683: New connection from 192.168.65.1:55147 on port 1883.
+1728570683: Client auto-67B53500-CED5-6D63-EE59-CE52F68B4BCC disconnected, not authorised.
+1728570699: New connection from 192.168.65.1:48250 on port 1883.
+1728570699: Client auto-8C75E591-EA53-F956-36E9-E6603241451B disconnected, not authorised.
+1728570704: New connection from 192.168.65.1:35356 on port 1883.
+1728570704: New client connected from 192.168.65.1:35356 as auto-FEFC59A7-217F-FB04-B12A-026646252CEE (p2, c1, k60, u'abhinavram2002').
+1728570723: Client auto-4C7A6DB2-550B-71C6-860A-0568C32B957F closed its connection.
+1728570723: Client auto-70F25760-D156-D803-C648-2157A527AD94 closed its connection.
+1728570724: New connection from 192.168.65.1:51951 on port 1883.
+1728570724: New client connected from 192.168.65.1:51951 as auto-A2467876-E391-7AFE-CF3A-3A1AAE03D853 (p2, c1, k60, u'abhinavram2002').
+1728570729: New connection from 192.168.65.1:33545 on port 1883.
+1728570729: New client connected from 192.168.65.1:33545 as auto-91113F87-E500-09B0-B7F1-6D4270971B38 (p2, c1, k60, u'abhinavram2002').
+1728570788: Client auto-91113F87-E500-09B0-B7F1-6D4270971B38 closed its connection.
+1728570788: New connection from 192.168.65.1:41687 on port 1883.
+1728570788: New client connected from 192.168.65.1:41687 as auto-7A76BB30-1386-BCCD-D851-5C89221E0EAE (p2, c1, k60, u'abhinavram2002').
+1728570811: Client auto-7A76BB30-1386-BCCD-D851-5C89221E0EAE closed its connection.
+1728570811: New connection from 192.168.65.1:16142 on port 1883.
+1728570811: New client connected from 192.168.65.1:16142 as auto-8BE699B6-319A-56F5-C59C-8064AF165F03 (p2, c1, k60, u'abhinavram2002').
+1728570813: Client auto-8BE699B6-319A-56F5-C59C-8064AF165F03 closed its connection.
+1728570813: Client auto-A2467876-E391-7AFE-CF3A-3A1AAE03D853 closed its connection.
+1728570818: New connection from 192.168.65.1:58705 on port 1883.
+1728570818: New client connected from 192.168.65.1:58705 as auto-EE41D5E4-6CFF-1DCC-5983-C523150AF34A (p2, c1, k60, u'abhinavram2002').
+1728570823: New connection from 192.168.65.1:37232 on port 1883.
+1728570823: New client connected from 192.168.65.1:37232 as auto-56338AFB-328E-5F53-707D-C2AD67A93D3F (p2, c1, k60, u'abhinavram2002').
+1728570839: Client auto-56338AFB-328E-5F53-707D-C2AD67A93D3F closed its connection.
+1728570839: New connection from 192.168.65.1:29243 on port 1883.
+1728570839: New client connected from 192.168.65.1:29243 as auto-3EE0604C-D2F0-8759-25D3-FE312C6F7892 (p2, c1, k60, u'abhinavram2002').
+1728570840: Client auto-3EE0604C-D2F0-8759-25D3-FE312C6F7892 closed its connection.
+1728570840: Client auto-EE41D5E4-6CFF-1DCC-5983-C523150AF34A closed its connection.
+1728570841: New connection from 192.168.65.1:20215 on port 1883.
+1728570841: New client connected from 192.168.65.1:20215 as auto-90520394-6CEA-BA38-36C3-24EBD8059AC2 (p2, c1, k60, u'abhinavram2002').
+1728570841: Client auto-90520394-6CEA-BA38-36C3-24EBD8059AC2 closed its connection.
+1728570844: New connection from 192.168.65.1:49200 on port 1883.
+1728570844: New client connected from 192.168.65.1:49200 as auto-F88044AD-2B6F-E332-D9DF-A6F58920ECD8 (p2, c1, k60, u'abhinavram2002').
+1728570844: Client auto-F88044AD-2B6F-E332-D9DF-A6F58920ECD8 closed its connection.
+1728570856: New connection from 192.168.65.1:65177 on port 1883.
+1728570856: New client connected from 192.168.65.1:65177 as auto-00A5BA7F-EBA8-E810-F955-9164C114FEBE (p2, c1, k60, u'abhinavram2002').
+1728570861: New connection from 192.168.65.1:23229 on port 1883.
+1728570861: New client connected from 192.168.65.1:23229 as auto-3C0D80CE-80CD-904B-7975-426434362F8C (p2, c1, k60, u'abhinavram2002').
+1728570908: Client auto-12B6B027-5346-F427-85C0-279727330BC3 closed its connection.
+1728570908: Client auto-3C4F1DFD-9054-3EA0-E4E6-3BCEC762B601 closed its connection.
+1728571090: Client auto-FEFC59A7-217F-FB04-B12A-026646252CEE closed its connection.
+1728571113: New connection from 192.168.65.1:25629 on port 1883.
+1728571113: New client connected from 192.168.65.1:25629 as auto-EB0E7F38-D149-E12A-A5FB-D8FCB4071461 (p2, c1, k60, u'abhinavram2002').
+1728572078: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728573008: Client auto-3C0D80CE-80CD-904B-7975-426434362F8C closed its connection.
+1728573009: New connection from 192.168.65.1:21536 on port 1883.
+1728573009: New client connected from 192.168.65.1:21536 as auto-46584900-35E9-D74D-BEAA-4444EBE468D3 (p2, c1, k60, u'abhinavram2002').
+1728573013: Client auto-46584900-35E9-D74D-BEAA-4444EBE468D3 closed its connection.
+1728573013: New connection from 192.168.65.1:61367 on port 1883.
+1728573013: New client connected from 192.168.65.1:61367 as auto-F61C06C0-0C97-80BA-508D-BA8BCD870818 (p2, c1, k60, u'abhinavram2002').
+1728573833: Client auto-F61C06C0-0C97-80BA-508D-BA8BCD870818 closed its connection.
+1728573834: New connection from 192.168.65.1:34291 on port 1883.
+1728573834: New client connected from 192.168.65.1:34291 as auto-6F2DB333-2C4D-EBC2-BBF4-624E135AE880 (p2, c1, k60, u'abhinavram2002').
+1728573879: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728573880: Client auto-6F2DB333-2C4D-EBC2-BBF4-624E135AE880 closed its connection.
+1728573880: New connection from 192.168.65.1:35158 on port 1883.
+1728573880: New client connected from 192.168.65.1:35158 as auto-82044A16-1579-533E-FEC9-0FEBF0AA2C32 (p2, c1, k60, u'abhinavram2002').
+1728573911: Client auto-82044A16-1579-533E-FEC9-0FEBF0AA2C32 closed its connection.
+1728573911: New connection from 192.168.65.1:62881 on port 1883.
+1728573911: New client connected from 192.168.65.1:62881 as auto-D42F9F3E-CD96-1944-2323-5716D4762729 (p2, c1, k60, u'abhinavram2002').
+1728574543: Client auto-D42F9F3E-CD96-1944-2323-5716D4762729 closed its connection.
+1728574543: Client auto-00A5BA7F-EBA8-E810-F955-9164C114FEBE closed its connection.
+1728574582: New connection from 192.168.65.1:42983 on port 1883.
+1728574582: New client connected from 192.168.65.1:42983 as auto-6FE34736-7AB2-A83C-4DDC-338F0AC647CE (p2, c1, k60, u'abhinavram2002').
+1728574587: New connection from 192.168.65.1:54335 on port 1883.
+1728574587: New client connected from 192.168.65.1:54335 as auto-8CD06CEB-BC07-1CCE-A6D0-3688D498F2AE (p2, c1, k60, u'abhinavram2002').
+1728575680: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728576336: New connection from 192.168.65.1:44109 on port 1883.
+1728576336: New client connected from 192.168.65.1:44109 as auto-13191BFC-1979-A40A-DFCD-C2BFEC676FCD (p2, c1, k60, u'abhinavram2002').
+1728576339: New connection from 192.168.65.1:63993 on port 1883.
+1728576339: New client connected from 192.168.65.1:63993 as auto-96EC5CFC-A627-2729-A247-E291C0B3B886 (p2, c1, k60, u'abhinavram2002').
+1728577481: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728578542: Client auto-8CD06CEB-BC07-1CCE-A6D0-3688D498F2AE closed its connection.
+1728578542: New connection from 192.168.65.1:24039 on port 1883.
+1728578542: New client connected from 192.168.65.1:24039 as auto-B9CE8841-FF8B-D6EE-7F36-7737BE3D817D (p2, c1, k60, u'abhinavram2002').
+1728578774: Client auto-96EC5CFC-A627-2729-A247-E291C0B3B886 closed its connection.
+1728578774: Client auto-13191BFC-1979-A40A-DFCD-C2BFEC676FCD closed its connection.
+1728578784: New connection from 192.168.65.1:38542 on port 1883.
+1728578784: New client connected from 192.168.65.1:38542 as auto-C4CD7064-A29A-90D5-1FD0-AC5BCA2B1ED3 (p2, c1, k60, u'abhinavram2002').
+1728578786: New connection from 192.168.65.1:34604 on port 1883.
+1728578786: New client connected from 192.168.65.1:34604 as auto-5CA98E07-6F01-10FF-E8CE-C54B1AC791F2 (p2, c1, k60, u'abhinavram2002').
+1728579273: Client auto-B9CE8841-FF8B-D6EE-7F36-7737BE3D817D closed its connection.
+1728579273: New connection from 192.168.65.1:30199 on port 1883.
+1728579273: New client connected from 192.168.65.1:30199 as auto-BED3691C-1BCD-0766-1444-E2AC66CE5016 (p2, c1, k60, u'abhinavram2002').
+1728579276: Client auto-BED3691C-1BCD-0766-1444-E2AC66CE5016 closed its connection.
+1728579276: New connection from 192.168.65.1:64445 on port 1883.
+1728579276: New client connected from 192.168.65.1:64445 as auto-9011D6AD-89E6-FA0B-8EEF-3B84F90DABA5 (p2, c1, k60, u'abhinavram2002').
+1728579282: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728579291: Client auto-5CA98E07-6F01-10FF-E8CE-C54B1AC791F2 closed its connection.
+1728579291: Client auto-C4CD7064-A29A-90D5-1FD0-AC5BCA2B1ED3 closed its connection.
+1728579297: New connection from 192.168.65.1:22259 on port 1883.
+1728579297: New client connected from 192.168.65.1:22259 as auto-F9BF8F52-5634-B387-7A7B-EEADAF32D308 (p2, c1, k60, u'abhinavram2002').
+1728579300: New connection from 192.168.65.1:22839 on port 1883.
+1728579300: New client connected from 192.168.65.1:22839 as auto-CCB35260-9C0D-E168-9491-1AF780D4481C (p2, c1, k60, u'abhinavram2002').
+1728579409: Client auto-9011D6AD-89E6-FA0B-8EEF-3B84F90DABA5 closed its connection.
+1728579409: Client auto-6FE34736-7AB2-A83C-4DDC-338F0AC647CE closed its connection.
+1728579472: Client auto-CCB35260-9C0D-E168-9491-1AF780D4481C closed its connection.
+1728579473: Client auto-F9BF8F52-5634-B387-7A7B-EEADAF32D308 closed its connection.
+1728579486: New connection from 192.168.65.1:64150 on port 1883.
+1728579486: New client connected from 192.168.65.1:64150 as auto-8DB073B8-2B13-79D4-C897-5546C8317A7E (p2, c1, k60, u'abhinavram2002').
+1728579489: New connection from 192.168.65.1:58679 on port 1883.
+1728579489: New client connected from 192.168.65.1:58679 as auto-F3B54330-E7CE-21D4-5C87-B272CC3B9155 (p2, c1, k60, u'abhinavram2002').
+1728579494: New connection from 192.168.65.1:16375 on port 1883.
+1728579494: New client connected from 192.168.65.1:16375 as auto-82129413-7601-3410-B21A-B0689B5BA52A (p2, c1, k60, u'abhinavram2002').
+1728579499: New connection from 192.168.65.1:47928 on port 1883.
+1728579499: New client connected from 192.168.65.1:47928 as auto-2AFCBB4D-B5AD-5214-D686-5F005A82F080 (p2, c1, k60, u'abhinavram2002').
+1728580237: Client auto-8DB073B8-2B13-79D4-C897-5546C8317A7E closed its connection.
+1728580240: Client auto-F3B54330-E7CE-21D4-5C87-B272CC3B9155 closed its connection.
+1728581251: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728581251: Client auto-EB0E7F38-D149-E12A-A5FB-D8FCB4071461 has exceeded timeout, disconnecting.
+1728581251: Client auto-82129413-7601-3410-B21A-B0689B5BA52A has exceeded timeout, disconnecting.
+1728581251: Client auto-2AFCBB4D-B5AD-5214-D686-5F005A82F080 has exceeded timeout, disconnecting.
+1728581252: New connection from 192.168.65.1:39072 on port 1883.
+1728581252: New connection from 192.168.65.1:49983 on port 1883.
+1728581252: New connection from 192.168.65.1:21676 on port 1883.
+1728581252: New client connected from 192.168.65.1:39072 as auto-F1C00F95-ED02-88FC-E838-633DFD7EFFF4 (p2, c1, k60, u'abhinavram2002').
+1728581252: New client connected from 192.168.65.1:49983 as auto-68E0F04A-F31B-70D5-50D8-8047A20FBCA5 (p2, c1, k60, u'abhinavram2002').
+1728581252: New client connected from 192.168.65.1:21676 as auto-AE178946-E5EA-656A-F24C-AC2B337230AD (p2, c1, k60, u'abhinavram2002').
+1728581258: New connection from 192.168.65.1:55799 on port 1883.
+1728581258: New client connected from 192.168.65.1:55799 as auto-8EAB8C6C-AEAD-E82E-DBDD-B0D8A4E33E70 (p2, c1, k60, u'abhinavram2002').
+1728581273: Client auto-8EAB8C6C-AEAD-E82E-DBDD-B0D8A4E33E70 closed its connection.
+1728581281: New connection from 192.168.65.1:35861 on port 1883.
+1728581281: New client connected from 192.168.65.1:35861 as auto-F89D44F1-E525-391B-D974-D4CC6F07DCC3 (p2, c1, k60, u'abhinavram2002').
+1728584011: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728584011: Client auto-F1C00F95-ED02-88FC-E838-633DFD7EFFF4 has exceeded timeout, disconnecting.
+1728584011: Client auto-68E0F04A-F31B-70D5-50D8-8047A20FBCA5 has exceeded timeout, disconnecting.
+1728584011: Client auto-AE178946-E5EA-656A-F24C-AC2B337230AD has exceeded timeout, disconnecting.
+1728584011: Client auto-F89D44F1-E525-391B-D974-D4CC6F07DCC3 has exceeded timeout, disconnecting.
+1728584012: New connection from 192.168.65.1:19259 on port 1883.
+1728584012: New connection from 192.168.65.1:52284 on port 1883.
+1728584012: New connection from 192.168.65.1:64703 on port 1883.
+1728584012: New client connected from 192.168.65.1:19259 as auto-C4C4587F-8AB7-DD15-A1E4-F106F9DC90AF (p2, c1, k60, u'abhinavram2002').
+1728584012: New client connected from 192.168.65.1:52284 as auto-36F9768F-D666-C9A7-3F30-53E7204EE9F9 (p2, c1, k60, u'abhinavram2002').
+1728584012: New client connected from 192.168.65.1:64703 as auto-7CC49FAD-2A38-2F28-B4FC-F65F6B366B19 (p2, c1, k60, u'abhinavram2002').
+1728584012: New connection from 192.168.65.1:56055 on port 1883.
+1728584012: New client connected from 192.168.65.1:56055 as auto-EF40890A-4632-82D3-074B-630E2C3205F5 (p2, c1, k60, u'abhinavram2002').
+1728584112: New connection from 192.168.65.1:31500 on port 1883.
+1728584112: New client connected from 192.168.65.1:31500 as auto-C9CE6ED7-4262-20F8-4401-D772EEDBC8F3 (p2, c1, k60, u'abhinavram2002').
+1728584791: Client auto-7CC49FAD-2A38-2F28-B4FC-F65F6B366B19 closed its connection.
+1728584792: New connection from 192.168.65.1:53761 on port 1883.
+1728584792: New client connected from 192.168.65.1:53761 as auto-5E22793A-E3B2-C6A8-EFE0-EA6D36BD2EDE (p2, c1, k60, u'abhinavram2002').
+1728584808: Client auto-5E22793A-E3B2-C6A8-EFE0-EA6D36BD2EDE closed its connection.
+1728584809: Client auto-36F9768F-D666-C9A7-3F30-53E7204EE9F9 closed its connection.
+1728584809: New connection from 192.168.65.1:24518 on port 1883.
+1728584809: New client connected from 192.168.65.1:24518 as auto-4C749C0C-D702-F723-38C1-CF363CBADD49 (p2, c1, k60, u'abhinavram2002').
+1728584815: New connection from 192.168.65.1:64429 on port 1883.
+1728584815: New client connected from 192.168.65.1:64429 as auto-BBD4BB4D-0ABF-BC1E-96BD-A065BB5A7EBF (p2, c1, k60, u'abhinavram2002').
+1728584840: Client auto-C9CE6ED7-4262-20F8-4401-D772EEDBC8F3 closed its connection.
+1728584840: Client auto-EF40890A-4632-82D3-074B-630E2C3205F5 closed its connection.
+1728584851: New connection from 192.168.65.1:26172 on port 1883.
+1728584851: New client connected from 192.168.65.1:26172 as auto-8BBA6C48-E836-AD62-042F-B57936AEEA20 (p2, c1, k60, u'abhinavram2002').
+1728584854: New connection from 192.168.65.1:38589 on port 1883.
+1728584854: New client connected from 192.168.65.1:38589 as auto-90EF7797-3685-1812-1DF0-9125135BAFEE (p2, c1, k60, u'abhinavram2002').
+1728585075: Client auto-90EF7797-3685-1812-1DF0-9125135BAFEE closed its connection.
+1728585076: Client auto-8BBA6C48-E836-AD62-042F-B57936AEEA20 closed its connection.
+1728585084: Client auto-BBD4BB4D-0ABF-BC1E-96BD-A065BB5A7EBF closed its connection.
+1728585084: Client auto-4C749C0C-D702-F723-38C1-CF363CBADD49 closed its connection.
+1728585087: New connection from 192.168.65.1:25421 on port 1883.
+1728585087: New client connected from 192.168.65.1:25421 as auto-B87F94E1-82D5-1AE6-C33F-EDE444F58FCD (p2, c1, k60, u'abhinavram2002').
+1728585091: New connection from 192.168.65.1:19713 on port 1883.
+1728585091: New client connected from 192.168.65.1:19713 as auto-E2A1A168-AC59-17DF-F92F-129392CCE46A (p2, c1, k60, u'abhinavram2002').
+1728585092: New connection from 192.168.65.1:29844 on port 1883.
+1728585092: New client connected from 192.168.65.1:29844 as auto-BB49365E-1218-015D-5109-5F366AE36DFC (p2, c1, k60, u'abhinavram2002').
+1728585094: New connection from 192.168.65.1:42850 on port 1883.
+1728585094: New client connected from 192.168.65.1:42850 as auto-A5292546-0C9F-C660-1EF2-C51E9489B202 (p2, c1, k60, u'abhinavram2002').
+1728585540: Client auto-BB49365E-1218-015D-5109-5F366AE36DFC closed its connection.
+1728585540: Client auto-B87F94E1-82D5-1AE6-C33F-EDE444F58FCD closed its connection.
+1728585594: Client auto-A5292546-0C9F-C660-1EF2-C51E9489B202 closed its connection.
+1728585594: Client auto-E2A1A168-AC59-17DF-F92F-129392CCE46A closed its connection.
+1728585632: New connection from 192.168.65.1:22177 on port 1883.
+1728585632: New client connected from 192.168.65.1:22177 as auto-E55B1845-D70B-45FC-80A2-8AFAE5493099 (p2, c1, k60, u'abhinavram2002').
+1728585637: New connection from 192.168.65.1:43392 on port 1883.
+1728585637: New client connected from 192.168.65.1:43392 as auto-72ED6C0D-C186-14FE-074C-0D3B1B8A964B (p2, c1, k60, u'abhinavram2002').
+1728585675: New connection from 192.168.65.1:44548 on port 1883.
+1728585675: New client connected from 192.168.65.1:44548 as auto-A71CA50F-3B23-63F3-266E-EEC33913D697 (p2, c1, k60, u'abhinavram2002').
+1728585678: New connection from 192.168.65.1:36721 on port 1883.
+1728585678: New client connected from 192.168.65.1:36721 as auto-A2FDD072-DD39-874A-7836-51F2A076ADA1 (p2, c1, k60, u'abhinavram2002').
+1728585812: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728586304: Client auto-A2FDD072-DD39-874A-7836-51F2A076ADA1 closed its connection.
+1728586304: Client auto-A71CA50F-3B23-63F3-266E-EEC33913D697 closed its connection.
+1728586891: Client auto-72ED6C0D-C186-14FE-074C-0D3B1B8A964B closed its connection.
+1728586891: Client auto-E55B1845-D70B-45FC-80A2-8AFAE5493099 closed its connection.
+1728586912: New connection from 192.168.65.1:45123 on port 1883.
+1728586912: New client connected from 192.168.65.1:45123 as auto-A8EF3A35-0E24-C32D-A465-199977F5F48D (p2, c1, k60, u'abhinavram2002').
+1728586915: New connection from 192.168.65.1:31607 on port 1883.
+1728586915: New client connected from 192.168.65.1:31607 as auto-E2FC7CCB-CE36-724E-2FCB-4762008F2201 (p2, c1, k60, u'abhinavram2002').
+1728586932: New connection from 192.168.65.1:25315 on port 1883.
+1728586932: New client connected from 192.168.65.1:25315 as auto-D5D81D23-A89F-B0B6-9927-3FD400129104 (p2, c1, k60, u'abhinavram2002').
+1728586937: New connection from 192.168.65.1:18905 on port 1883.
+1728586937: New client connected from 192.168.65.1:18905 as auto-59B3CAAE-252E-D305-AC45-8721F317EBE3 (p2, c1, k60, u'abhinavram2002').
+1728587613: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728589050: Client auto-A8EF3A35-0E24-C32D-A465-199977F5F48D closed its connection.
+1728589051: New connection from 192.168.65.1:49666 on port 1883.
+1728589051: New client connected from 192.168.65.1:49666 as auto-6F65F5EB-BA7B-6710-870F-902ADAAA5401 (p2, c1, k60, u'abhinavram2002').
+1728589139: Client auto-C4C4587F-8AB7-DD15-A1E4-F106F9DC90AF has exceeded timeout, disconnecting.
+1728589139: Client auto-E2FC7CCB-CE36-724E-2FCB-4762008F2201 has exceeded timeout, disconnecting.
+1728589139: Client auto-D5D81D23-A89F-B0B6-9927-3FD400129104 has exceeded timeout, disconnecting.
+1728589139: Client auto-59B3CAAE-252E-D305-AC45-8721F317EBE3 has exceeded timeout, disconnecting.
+1728589140: New connection from 192.168.65.1:34349 on port 1883.
+1728589140: New connection from 192.168.65.1:52860 on port 1883.
+1728589140: New connection from 192.168.65.1:38252 on port 1883.
+1728589140: New client connected from 192.168.65.1:34349 as auto-DB4DDC6B-57E4-0616-165B-1BB3F0A696AA (p2, c1, k60, u'abhinavram2002').
+1728589140: New client connected from 192.168.65.1:52860 as auto-86D16510-00BF-5BD3-C7EF-005E8160C8FB (p2, c1, k60, u'abhinavram2002').
+1728589140: New client connected from 192.168.65.1:38252 as auto-5DD7BD80-79DF-B86B-A80A-AE452090E153 (p2, c1, k60, u'abhinavram2002').
+1728589140: New connection from 192.168.65.1:35068 on port 1883.
+1728589140: New client connected from 192.168.65.1:35068 as auto-B29C1BA6-3D25-1FB8-BE23-A9FA28359286 (p2, c1, k60, u'abhinavram2002').
+1728589145: Client auto-6F65F5EB-BA7B-6710-870F-902ADAAA5401 has exceeded timeout, disconnecting.
+1728589146: New connection from 192.168.65.1:20231 on port 1883.
+1728589146: New client connected from 192.168.65.1:20231 as auto-C2342B60-AC61-B2F1-EE3E-385EBBE7C602 (p2, c1, k60, u'abhinavram2002').
+1728589395: Client auto-B29C1BA6-3D25-1FB8-BE23-A9FA28359286 closed its connection.
+1728589395: Client auto-C2342B60-AC61-B2F1-EE3E-385EBBE7C602 closed its connection.
+1728589408: New connection from 192.168.65.1:45906 on port 1883.
+1728589408: New client connected from 192.168.65.1:45906 as auto-E8296DAF-882A-5E72-BD64-238FC965322D (p2, c1, k60, u'abhinavram2002').
+1728589411: New connection from 192.168.65.1:30094 on port 1883.
+1728589411: New client connected from 192.168.65.1:30094 as auto-6D731C68-54A0-EDEE-39D5-F985FBEDC8B6 (p2, c1, k60, u'abhinavram2002').
+1728589414: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728589570: Client auto-6D731C68-54A0-EDEE-39D5-F985FBEDC8B6 closed its connection.
+1728589570: Client auto-E8296DAF-882A-5E72-BD64-238FC965322D closed its connection.
+1728589640: New connection from 192.168.65.1:19241 on port 1883.
+1728589640: New client connected from 192.168.65.1:19241 as auto-61A57928-FF89-91FF-8630-05BAA46FD474 (p2, c1, k60, u'abhinavram2002').
+1728589643: New connection from 192.168.65.1:24561 on port 1883.
+1728589643: New client connected from 192.168.65.1:24561 as auto-374DC582-1682-CCFF-0736-43ECC0F19A77 (p2, c1, k60, u'abhinavram2002').
+1728589676: New connection from 192.168.65.1:38708 on port 1883.
+1728589676: New client connected from 192.168.65.1:38708 as auto-39DE3417-28DB-7858-C097-A6EFA3EB04EC (p2, c1, k60, u'abhinavram2002').
+1728589678: New connection from 192.168.65.1:22168 on port 1883.
+1728589678: New client connected from 192.168.65.1:22168 as auto-C064786B-56A2-8338-3230-D27DA44ED51D (p2, c1, k60, u'abhinavram2002').
+1728590444: Client auto-C064786B-56A2-8338-3230-D27DA44ED51D closed its connection.
+1728590444: Client auto-39DE3417-28DB-7858-C097-A6EFA3EB04EC closed its connection.
+1728590484: Client auto-374DC582-1682-CCFF-0736-43ECC0F19A77 closed its connection.
+1728590485: Client auto-61A57928-FF89-91FF-8630-05BAA46FD474 closed its connection.
+1728591215: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728593016: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1728593114: Client auto-DB4DDC6B-57E4-0616-165B-1BB3F0A696AA closed its connection.
+1728593114: Client auto-86D16510-00BF-5BD3-C7EF-005E8160C8FB closed its connection.
+1728593114: Client auto-5DD7BD80-79DF-B86B-A80A-AE452090E153 closed its connection.
